@@ -5,9 +5,15 @@ function App() {
   return (
     <div className="App">
       <div className="container">
+        <div>
+          <h1 className={'text-white mt-4'}>1Pako</h1>
+        </div>
         <div className="d-flex justify-content-center h-100">
+
           <div className="card">
+
             <div className="card-header">
+
               <h3>Sign In</h3>
               <div className="d-flex justify-content-end social_icon">
                 <span><i className="fab fa-facebook-square"/></span>
