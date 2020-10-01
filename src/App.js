@@ -48,16 +48,6 @@ function App() {
                 </div>
               </form>
             </div>
-            <div className="card-footer">
-              <div className="d-flex justify-content-center links">
-                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                Don't have an account? <a href="#">Sign Up</a>
-              </div>
-              <div className="d-flex justify-content-center">
-                {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                <a href="#">Forgot your password?</a>
-              </div>
-            </div>
           </div>
         </div>
       </div>
